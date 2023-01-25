@@ -1,8 +1,9 @@
 ## Hi , I'm [Sagnik!](https://sagnikc395.github.io/) 👋
 
+I'm a software developer and tinkerer.
 
+## Tech Stack
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"/></code>
-<code><img height="20" src="https://www.solidjs.com/img/logo/without-wordmark/logo.png"/></code>
 <code><img height="20" src="https://nextjs.org/static/favicon/favicon-32x32.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/></code>
