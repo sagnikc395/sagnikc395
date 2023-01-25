@@ -1,4 +1,4 @@
-## Hi , I'm [Sagnik!](https://sagnikc395.github.io/) 👋
+## Hi , I'm [Sagnik!](https://sagnikc395.github.io/linkit/) 👋
 
 I'm a software developer and tinkerer.
 
@@ -10,7 +10,7 @@ I'm a software developer and tinkerer.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/Mokshit06/Mokshit06/master/assets/mongodb.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
 
 <!-- ![Sagnik's github stats](https://github-readme-stats.vercel.app/api?username=sagnikc395&count_private=true&include_all_commits=true#gh-light-mode-only) -->
 
