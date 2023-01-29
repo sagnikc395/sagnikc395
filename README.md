@@ -13,3 +13,7 @@ I'm a software developer and tinkerer.
   - PostgreSQL
   - Python
   - React
+
+## Tech That I am learning in 2023:
+  - Rust 
+  - Tokio
