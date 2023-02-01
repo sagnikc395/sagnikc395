@@ -7,13 +7,14 @@ I'm a software developer and tinkerer.
 ## Tech Stack that I use primarrily:
   - Javascript
   - Next.js 
-  - Typescript
-  - tRPC
-  - Prisma
+  - React
   - PostgreSQL
   - Python
-  - React
+  - Node.js
 
 ## Tech That I am learning in 2023:
   - Rust 
   - Tokio
+  - Typescript 
+  - Deno
+  - Prisma
