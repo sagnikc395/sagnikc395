@@ -8,7 +8,7 @@ I'm a software developer and tinkerer.
   - Javascript
   - React
   - PostgreSQL
-  - MantineUI
+  - CSS
   - Node.js
 
 ## Tech That I am learning in 2023:
