@@ -1,5 +1,5 @@
 #  👋
-hi, I'm [Sagnik](https://sagnikc395.xyz) 
+hi, I'm [Sagnik](https://sagnikc395.github.io) 
 
 I'm a software developer and tinkerer.
 
