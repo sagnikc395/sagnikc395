@@ -10,3 +10,9 @@ I am mainly interested in how distributed systems work and also I am also keenly
 Typescript's Type System is Turing complete 😱 ; meaning we can do compute just using the type system in Typescript.
 Ref: https://github.com/microsoft/TypeScript/issues/14833
 
+## Software 
+
+1. Python
+2. Javascript
+3. Typescript
+4. Go (learning).
