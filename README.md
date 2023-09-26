@@ -15,4 +15,3 @@ Ref: https://github.com/microsoft/TypeScript/issues/14833
 1. Python
 2. Javascript
 3. Typescript
-4. Rust (learning). 
