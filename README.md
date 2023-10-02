@@ -17,5 +17,5 @@ I am mainly interested in how distributed systems work and also I am also keenly
 ## Currently Learning 
 1. tRPC := For making type safe APIs
 2. Rust := For writing all non web and non GC required stuff . Stuff close to the system.
-
+3. Drizzle + Zod := Writing Raw SQL with Type Validation has to be better than to learn another syntax(cue. Prisma).
 
