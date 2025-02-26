@@ -12,4 +12,4 @@ I have been independently studying PL Theory and I am currently interested in th
 I cultivate my garden of knowledge here : [sagnikc395.github.io](https://sagnikc395.github.io)
 
 list of half-baked ideas, thought-experiments, small-scripts and notes of all sorts that doesnt make sense to keep in my blog : 
-[gendaken](https://gedanken-drab.vercel.app/)
+[gedanken](https://gedanken-drab.vercel.app/)
