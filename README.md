@@ -9,7 +9,5 @@ I have been independently studying PL Theory and I am currently interested in th
 
 I cultivate my garden of knowledge here : [sagnikc395.github.io](https://sagnikc395.github.io)
 
-list of blog-posts, twitter posts and other various kinds of knowledge that I am keeping in my Reading List:
-[sagnikcw.notion.site](https://sagnikcw.notion.site/what-am-i-learning-32c38b1bc75e4d7192942af1b849e408?pvs=4)
-
-
+list of half-baked ideas, thought-experiments, small-scripts and notes of all sorts that doesnt make sense to keep in my blog : 
+[gendaken](https://gedanken-drab.vercel.app/)
