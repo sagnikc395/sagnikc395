@@ -12,3 +12,7 @@ I cultivate my garden of knowledge here : [sagnikc395.github.io](https://sagnikc
 
 list of half-baked ideas, thought-experiments, small-scripts and notes of all sorts that doesnt make sense to keep in my blog : 
 [gedanken](https://gedanken-drab.vercel.app/)
+
+## Papers I'm reading currently:
+
+- [Optimal Program Synthesis via Abstract Interpretation](https://dl.acm.org/doi/pdf/10.1145/3632858) -> POPL 2024
