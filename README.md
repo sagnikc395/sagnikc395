@@ -1,8 +1,5 @@
 # こんにちは、Sagnik です 👋
 
-<img src="https://github.com/user-attachments/assets/d2e85034-b792-4b4c-9fbb-a44ca37359c1" data-canonical-src="https://github.com/user-attachments/assets/d2e85034-b792-4b4c-9fbb-a44ca37359c1" width="400" height="400" />
-
-
 🧠 software engineer wandering through the realms of  
 **program synthesis · type theory · formal methods**  
 
