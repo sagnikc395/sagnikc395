@@ -1,4 +1,4 @@
-# こんにちは、Sagnik です 👋
+# hey, this is Sagnik 
 
 🧠 software engineer wandering through the realms of  
 **program synthesis · type theory · formal methods**  
