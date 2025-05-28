@@ -15,8 +15,3 @@ posting quiet reflections & stray code on
 
 ---
 
-## 📊 github stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagnikc395&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" />
-</p>
