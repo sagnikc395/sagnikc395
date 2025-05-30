@@ -8,10 +8,10 @@
 
 ---
 
-## 🗓️ currently
+## current
 
 posting quiet reflections & stray code on  
-[X](https://x.com/sagnikcw) · [site](https://sagnikc395.github.io)
+[X](https://x.com/sagnikcw) · [About](https://sagnikc395.github.io) · [Blog](https://sagnikc395.github.io/blog) 
 
 ---
 
