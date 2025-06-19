@@ -9,6 +9,6 @@ cultivating a [digital garden](https://sagnikc395.github.io/notes/) of interconn
 ## current
 
 posting some ideas on PL. Program Synthesis and AI on : 
-- [Blog](https://lux-aeterna.vercel.app) 
+- [Blog](https://blog-sagnikc.vercel.app) 
 
 
