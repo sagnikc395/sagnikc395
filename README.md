@@ -1,12 +1,14 @@
 # hey, this is Sagnik 
 
-software engineer wandering through the realms of  
-**program synthesis · type theory · formal methods**  
+Hi ! I'm an upcoming Masters in Computer Science student in UMass, Amherst. 
+My major research interests are in the domain of AI(especially NLP), Neuro Symbolic Programming and Program Synthesis.
 
-building the [Vanara Programming Language](https://sagnikc395.github.io/vanara-lang/)  
-cultivating a [digital garden](https://sagnikc395.github.io/notes/) of interconnected thoughts
+## Current Projects:
+- building the [Vanara Programming Language](https://sagnikc395.github.io/vanara-lang/)  
+- cultivating a [digital garden](https://sagnikc395.github.io/notes/) of interconnected thoughts
 
-## current
+
+## Writing:
 
 posting some ideas on PL. Program Synthesis and AI on : 
 - [Blog](https://csagnik.netlify.app/) 
