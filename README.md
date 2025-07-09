@@ -11,6 +11,6 @@ My major research interests are in the domain of AI(especially NLP), Neuro Symbo
 ## Writing:
 
 posting some ideas on PL. Program Synthesis and AI on : 
-- [Blog](https://csagnik.netlify.app/) 
+- [Blog](https://sagnikc395.github.io/blog/) 
 
 
