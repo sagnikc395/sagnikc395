@@ -11,9 +11,5 @@ updated about major research in this areas from time-to-time.
 - cultivating a [digital garden](https://sagnikc395.github.io/notes/) of interconnected thoughts
 
 
-## Writing:
-
-posting some ideas on PL. Program Synthesis and AI on : 
-- [Blog](https://sagnikc395.github.io/blog/) 
 
 
