@@ -7,7 +7,6 @@ updated about major research in this areas from time-to-time.
 
 ## Current Projects:
 - building the [Vanara Programming Language](https://sagnikc395.github.io/vanara-lang/) . 
-- building a [redis] clone purely in Python from scratch to learn more about in-memory databases .
 - cultivating a [digital garden](https://sagnikc395.github.io/notes/) of interconnected thoughts
 
 
