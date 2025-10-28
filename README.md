@@ -1,4 +1,4 @@
-# hey, this is Sagnik 
+# hey, i'm Sagnik 
 
 i’m currently pursuing my Master’s in Computer Science at UMass Amherst.
 
