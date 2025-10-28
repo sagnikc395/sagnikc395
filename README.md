@@ -1,10 +1,7 @@
 # hey, this is Sagnik 
 
-i'm currently doing masters in computer science in UMass Amherst.
+i’m currently pursuing my Master’s in Computer Science at UMass Amherst.
 
-my current research interests are how to make reasoning better for small world models, and how 
-we can fine tune small models to learn more ontologically diverse data and making them better 
-for Medical QA.
+lately, I’ve been fascinated by how small language models reason — how we can help them think more reliably, and how fine-tuning them on ontologically diverse data might make them better at understanding complex, domain-specific questions, especially in medical QA.
 
-currently trying to get back into writing and publishing my ideas and thoughts as much as possible and 
-making it open source , checkout my notes on [things im reading / blog posts / ideas etc.](https://sagnikc395.github.io/notes).
+i’ve been trying to get back into writing more regularly — sharing notes, ideas, and half-formed thoughts as I explore new papers and projects. Most of it’s open source, so feel free to check out my [blog / notes](https://sagnikc395.github.io/notes).
