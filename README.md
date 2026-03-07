@@ -1,12 +1,5 @@
 <div align="center">
-
-```
-┌─────────────────────────────────────────────┐
-│                                             │
-│   hey, i'm sagnik.                         │
-│                                             │
-└─────────────────────────────────────────────┘
-```
+# hey , im Sagnik 👋
 
 **CS grad student · UMass Amherst**  
 researching at the intersection of computation and life
@@ -26,14 +19,7 @@ i'm a Master's student in **Computer Science** at the **University of Massachuse
 
 ### github stats
 
-<div align="center">
-
-![Sagnik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagnikc395&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikc395&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sagnikc395&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888&currStreakNum=ffffff&sideNums=ffffff)
-
+[![Sagnik's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagnikc395)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
