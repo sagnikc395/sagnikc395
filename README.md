@@ -17,9 +17,6 @@ i'm a Master's student in **Computer Science** at the **University of Massachuse
 
 ---
 
-### github stats
-
-([![Sagnik's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagnikc395)](https://github.com/anuraghazra/github-readme-stats))
 </div>
 
 ---
