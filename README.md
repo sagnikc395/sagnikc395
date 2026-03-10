@@ -8,4 +8,4 @@ I am a Master's student in **Computer Science** at the **University of Massachus
 ### find me
 
 - 🌐 **website** → [sagnikc395.github.io](https://sagnikc395.github.io)
-- 🗒️ **notes** → [sc4-knowledge-base.vercel.app](https://sc4-knowledge-base.vercel.app) *(rough ideas, works-in-progress)*
+- 🗒️ **notes** → [knowledge-base](https://sagnikc395.github.io/knowledge-base) *(rough ideas, works-in-progress)*
