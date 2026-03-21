@@ -1,9 +1,8 @@
-# hey , im Sagnik 👋
+# Hi, I'm Sagnik
 
+I am a Master's student studying **Computer Science** at the **University of Massachusetts Amherst**, focused on fundamental research in **Computational Biology** — thinking hard about the algorithms and models that help us understand living systems.
 
-I am a Master's student in **Computer Science** at the **University of Massachusetts Amherst**, focused on fundamental research in **Computational Biology** — thinking hard about the algorithms and models that help us understand living systems.
+### a lot of what i study , i am trying to document and write it here:
 
-### find me
-
-- 🌐 **website** → [sagnikc395.github.io](https://sagnikc395.github.io)
-- 🗒️ **notes** → [knowledge-base](https://sagnikc395.github.io/knowledge-base) *(rough ideas, works-in-progress)*
+- [blog](https://sagnikc395.github.io/blog/)
+- [rough draft of notes and writeups](https://sagnikc395.github.io/knowledge-base)
