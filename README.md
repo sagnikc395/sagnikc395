@@ -12,8 +12,8 @@ I'm a graduate student in **Computer Science** at the **University of Massachuse
 
 I document most of what I study here:
 
-- 📝 **[Blog](https://sagnikc395.github.io/blog/)** — notes, explorations, and ideas
-- 🔧 **[Project Writeups](https://sagnikc395.github.io/projects/)** — deeper dives into things I've built
+-  **[Blog](https://sagnikc395.github.io/blog/)** — notes, explorations, and ideas
+-  **[Project Writeups](https://sagnikc395.github.io/projects/)** — deeper dives into things I've built
 
 ---
 
