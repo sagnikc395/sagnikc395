@@ -1,11 +1,8 @@
 <h1>Hi, I'm Sagnik 👋</h1>
 
-<p><em>cs grad student · ML/AI researcher · occasional blogger</em></p>
+cs grad student · mechanistic interpretability · AI agents builder · occasional blogger
 
-
-I'm a graduate student in **Computer Science** at the **University of Massachusetts Amherst**, broadly interested in **ML and AI**. I spend a lot of time reading papers, building things, and writing up what I learn , both to solidify my own understanding and to share it with others.
-
-`UMass Amherst` &nbsp; `ML / AI` &nbsp; `Research` &nbsp; `Open Source`
+I'm a graduate student in Computer Science at the University of Massachusetts Amherst, focused on mechanistic interpretability and building AI agents. I spend a lot of time reading papers, reverse-engineering model internals, and shipping agent systems — then writing up what I learn, both to solidify my own understanding and to share it with others.
 
 ### Writing
 
