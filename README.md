@@ -8,9 +8,9 @@ I'm a graduate student in Computer Science at the University of Massachusetts Am
 
 I document most of what I study here:
 
-- [Blog](https://sagnikc395.github.io/blog/) 
+- [blog](https://sagnikc395.github.io/blog/) 
   - notes, explorations, and ideas
-- [Project Writeups](https://sagnikc395.github.io/projects/)
+- [project writeups](https://sagnikc395.github.io/projects/)
   - deeper dives into things I've built
 
 
