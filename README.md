@@ -1,6 +1,6 @@
 hi, i'm sagnik 
 
-cs grad student · mechanistic interpretability · AI agents builder · distributed systems 
+current interests : mechanistic interpretability · AI agents · distributed systems 
 
 i'm a graduate student in Computer Science at the University of Massachusetts Amherst, focused on mechanistic interpretability and building AI agents.
 
