@@ -1,3 +1,7 @@
+<img width="500" height="281" alt="evangelion_hacking" src="https://github.com/user-attachments/assets/1c24f9cc-af23-41d1-90b1-caba9c554f49" />
+
+
+
 hi, i'm sagnik 
 
 current interests : mechanistic interpretability · AI agents · distributed systems 
