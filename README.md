@@ -6,7 +6,7 @@ hi, i'm sagnik
 
 current interests : mechanistic interpretability · AI agents · distributed systems 
 
-i'm a graduate student in Computer Science at the University of Massachusetts Amherst, focused on mechanistic interpretability and building AI agents.
+i spend my time trying to understand what's actually happening inside neural networks — and occasionally breaking distributed systems to figure out how to make them not break. currently obsessed with mechanistic interpretability, building AI agents that don't hallucinate their way through life, and the infrastructure holding all of it together.
 
 things which i am researching / making projects , I write over here : <br />
 [blog](https://sagnikc395.github.io/blog/) · [projects](https://sagnikc395.github.io/projects/)
