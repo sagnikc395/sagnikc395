@@ -1,4 +1,4 @@
-## Hi, I'm Sagnik 🥰
+## Hi, I'm Sagnik 🤠
 
 I work on AI safety and alignment, and I treat it as a fundamental science: I want to understand why models behave the way they do, not only patch the symptoms. I also enjoy building across the whole LLM lifecycle, from inference engines to interpretability experiments.
 
